@@ -15,7 +15,9 @@
   
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></a>
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></a>
-  <a href="https://simple.wikipedia.org/wiki/JavaScript" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a> 
+  <a href="https://simple.wikipedia.org/wiki/JavaScript" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a>
+  <a href="https://simple.wikipedia.org/wiki/JavaScript" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></a>
+  <a href="https://simple.wikipedia.org/wiki/JavaScript" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></a>
   <a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
   <a href="https://www.figma.com/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg"></a>
   <a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
